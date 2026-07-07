@@ -1,5 +1,13 @@
 # Changelog
 
+## [8.7.1](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.7.0...protobufjs-v8.7.1) (2026-07-07)
+
+
+### Bug Fixes
+
+* accept repeated NullValue elements in ProtoJSON ([#2373](https://github.com/protobufjs/protobuf.js/issues/2373)) ([ad0b9bb](https://github.com/protobufjs/protobuf.js/commit/ad0b9bb95115bb8eb3a5752cb27635bb941f6f69))
+* Merge repeated message-valued fields within map entries ([#2364](https://github.com/protobufjs/protobuf.js/issues/2364)) ([13b417b](https://github.com/protobufjs/protobuf.js/commit/13b417b6ff550f56e72f9332ffcafc35c1f79cba))
+
 ## [8.7.0](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.6.6...protobufjs-v8.7.0) (2026-07-06)
 
 
